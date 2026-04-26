@@ -25,7 +25,8 @@ This project analyzes customer purchasing behavior using Market Basket Analysis 
 - Improve cross-selling using association rules
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+<img width="1707" height="949" alt="Screenshot 2026-04-17 162754" src="https://github.com/user-attachments/assets/582d40a9-42d4-4fe7-8ba6-b0b889ccd330" />
+
 
 ## 🚀 Conclusion
 The analysis demonstrates how customer purchase patterns can be leveraged to increase revenue and improve customer retention.
